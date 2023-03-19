@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 Link to my portfolio (https://main--heartfelt-monstera-45bb37.netlify.app/)
+- 👨‍💻 Link to my portfolio (Portfoilo)
 
 - 📫 How to reach me **simran.mangukiya95@gmail.com**
 
