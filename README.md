@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Typescript**
 
+- 👨‍💻 All of my projects are available at (https://main--heartfelt-monstera-45bb37.netlify.app/)
+
 - 📫 How to reach me **simran.mangukiya95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaranm&show_icons=true&locale=en" alt="simaranm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simaranm&" alt="simaranm" /></p>
+
