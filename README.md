@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 Link to my portfolio https://simran-portfolio-react.netlify.app/
+- 👨‍💻 Link to my portfolio (https://simran-portfolio-react.netlify.app/)
 
 - 📫 How to reach me **simran.mangukiya95@gmail.com**
 
